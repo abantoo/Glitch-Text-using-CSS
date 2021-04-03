@@ -1,2 +1,1 @@
-# Glitch-Text-using-CSS
-# Glitch-Text-using-CSS
+https://abantoo.github.io/Glitch-Text-using-CSS/.
