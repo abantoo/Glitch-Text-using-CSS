@@ -42,7 +42,7 @@ body {
     opacity: 0.8;
   }
   
-  /* https://web.dev/prefers-reduced-motion/#(bonus)-forcing-reduced-motion-on-all-websites */
+
   
   @keyframes glitch {
     0% {
